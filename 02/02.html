@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>02</title>
+    <script type="text/javascript" src="../angular.min.js"></script>
+    <script type="text/javascript" src="js/02.js"></script>
+</head>
+<body ng-controller="PhoneListCtrl">
+<ul>
+    <li ng-repeat="phone in phones">
+        {{phone.name}}
+        <p>{{phone.snippet}}</p>
+    </li>
+</ul>
+</body>
+</html>
