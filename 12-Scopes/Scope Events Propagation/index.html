@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+    <title>Scope Events Propagation</title>
+    <script type="text/javascript" src="../../angular.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+<div ng-controller="EventController">
+    Root scope <tt>count:{{count}}</tt>
+    <ul>
+        <li ng-repeat="i in [1]" ng-controller="EventController">
+            <button ng-click="$emit('MyEvent')">$emit('MyEvent')</button>
+            <button ng-click="$broadcast('MyEvent')">$broadcast('MyEvent')</button>
+            <br>
+            Middle scope <tt>count:{{count}}</tt><br>
+            Middle's Parent scope <tt>count:{{$parent.count}}</tt>
+            <ul ng-repeat="l in [1]" ng-controller="EventController">
+                <li>Leaf scope <tt>count:{{count}}</tt></li>
+            </ul>
+            <ul ng-repeat="l in [1]" ng-controller="EventController">
+                <li>Leaf's Parent's parent scope <tt>count:{{$parent.count}}</tt></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+</body>
+</html>

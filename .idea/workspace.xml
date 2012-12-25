@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed70d18-a646-43c2-a618-37495497bdda" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Binding to from and control state/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Binding to from and control state/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Customer Validation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Customer Validation/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Simple Form/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Simple Form/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Using CSS classes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Form/Using CSS classes/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Modules/Recommended Setup/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Modules/Recommended Setup/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Modules/The Basics/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Modules/The Basics/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Scopes/Scope Events Propagation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Scopes/Scope Events Propagation/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Scopes/What are Scopes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-Scopes/What are Scopes/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-Dependency Injection/Dependency Injection/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-Dependency Injection/Dependency Injection/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27-Using $location/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27-Using $location/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/04.html" afterPath="$PROJECT_DIR$/04/04.html" />
     </list>
     <ignored path="Angularjs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,20 +42,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02/02.html">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/27-Using $location/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="8" selection-start="410" selection-end="410" vertical-scroll-proportion="-9.225806">
+            <state line="10" column="49" selection-start="331" selection-end="332" vertical-scroll-proportion="0.22916667">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04/04.html">
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/27-Using $location/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="8" selection-start="660" selection-end="660" vertical-scroll-proportion="0.47147146">
-              <folding />
+            <state line="80" column="20" selection-start="2294" selection-end="2294" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc;n#FakeBrowser#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,30 +75,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/02/js/01.js" />
-        <option value="$PROJECT_DIR$/02/js/02.js" />
-        <option value="$PROJECT_DIR$/02/js/test/unit/controllersSpec.js" />
-        <option value="$PROJECT_DIR$/03/03.html" />
-        <option value="$PROJECT_DIR$/03/js/03.js" />
-        <option value="$PROJECT_DIR$/03/js/03-1.js" />
-        <option value="$PROJECT_DIR$/03/03-1.html" />
-        <option value="$PROJECT_DIR$/04/js/04.js" />
-        <option value="$PROJECT_DIR$/04/04-1.html" />
-        <option value="$PROJECT_DIR$/04/04-2.html" />
-        <option value="$PROJECT_DIR$/04/js/04-2.js" />
-        <option value="$PROJECT_DIR$/04/04-3.html" />
-        <option value="$PROJECT_DIR$/04/js/04-3.js" />
-        <option value="$PROJECT_DIR$/01/01.html" />
-        <option value="$PROJECT_DIR$/02/02.html" />
-        <option value="$PROJECT_DIR$/04/04.html" />
+        <option value="$PROJECT_DIR$/11-Modules/The Basics/index.html" />
+        <option value="$PROJECT_DIR$/11-Modules/The Basics/script.js" />
+        <option value="$PROJECT_DIR$/11-Modules/Recommended Setup/index.html" />
+        <option value="$PROJECT_DIR$/11-Modules/Recommended Setup/script.js" />
+        <option value="$PROJECT_DIR$/11-Modules/Module Loading &amp; Dependencies/html.html" />
+        <option value="$PROJECT_DIR$/11-Modules/Module Loading &amp; Dependencies/script.js" />
+        <option value="$PROJECT_DIR$/12-Scopes/What are Scopes/index.html" />
+        <option value="$PROJECT_DIR$/12-Scopes/What are Scopes/script.js" />
+        <option value="$PROJECT_DIR$/12-Scopes/Scope Events Propagation/script.js" />
+        <option value="$PROJECT_DIR$/12-Scopes/Scope Events Propagation/index.html" />
+        <option value="$PROJECT_DIR$/14-Dependency Injection/script.js" />
+        <option value="$PROJECT_DIR$/14-Dependency Injection/index.html" />
+        <option value="$PROJECT_DIR$/14-Dependency Injection/Dependency Injection/index.html" />
+        <option value="$PROJECT_DIR$/14-Dependency Injection/Dependency Injection/script.js" />
+        <option value="$PROJECT_DIR$/27-Using $location/script.js" />
+        <option value="$PROJECT_DIR$/27-Using $location/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -89,7 +107,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -126,20 +144,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Angularjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Angularjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -156,7 +160,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\c-sailor.zhang\WebstormProjects\Angularjs\11-Modules\Recommended Setup" />
+      <recent name="C:\Users\c-sailor.zhang\WebstormProjects\Angularjs\Implementing custom form control (using ngModel)" />
       <recent name="D:\Users\Sailor\WebstormProjects\Angularjs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\c-sailor.zhang\WebstormProjects\Angularjs\14-Dependency Injection\Dependency Injection" />
     </key>
   </component>
   <component name="RunManager">
@@ -213,22 +222,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="1176" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14817573" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14774889" sideWeight="0.67027557" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -289,16 +298,112 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02/02.html">
+    <entry file="file://$PROJECT_DIR$/07-Form/Binding to from and control state/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="410" selection-end="410" vertical-scroll-proportion="-9.225806">
+        <state line="21" column="19" selection-start="532" selection-end="532" vertical-scroll-proportion="0.33299696" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-Form/Binding to from and control state/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="94" selection-end="319" vertical-scroll-proportion="0.09166667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-Form/Customer Validation/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="12" selection-start="300" selection-end="300" vertical-scroll-proportion="0.11099899" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-Form/Customer Validation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="51" selection-start="1119" selection-end="1124" vertical-scroll-proportion="0.6875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Modules/The Basics/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="36" selection-start="306" selection-end="306" vertical-scroll-proportion="0.08879919">
+          <folding>
+            <element signature="e#0#167#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Modules/Recommended Setup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="60" selection-start="85" selection-end="213" vertical-scroll-proportion="0.114583336">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/04.html">
+    <entry file="file://$PROJECT_DIR$/11-Modules/Recommended Setup/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="660" selection-end="660" vertical-scroll-proportion="0.47147146">
+        <state line="39" column="21" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Scopes/What are Scopes/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#167#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Scopes/What are Scopes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="8" selection-start="371" selection-end="371" vertical-scroll-proportion="0.275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Modules/The Basics/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="60" selection-start="79" selection-end="207" vertical-scroll-proportion="0.114583336">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Scopes/Scope Events Propagation/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="3" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Scopes/Scope Events Propagation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="7" selection-start="1048" selection-end="1048" vertical-scroll-proportion="-19.161291">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Dependency Injection/Dependency Injection/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="305" selection-end="310" vertical-scroll-proportion="-6.387097">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Dependency Injection/Dependency Injection/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="0.59939456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27-Using $location/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="20" selection-start="2294" selection-end="2294" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc;n#FakeBrowser#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27-Using $location/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="49" selection-start="331" selection-end="332" vertical-scroll-proportion="0.22916667">
           <folding />
         </state>
       </provider>
